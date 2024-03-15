@@ -1,0 +1,13 @@
+{
+    "name": "sssssean/screentest",
+    "require": {
+        "symfony/console": "^7.0"
+    },
+    "autoload": {
+         "psr-4": {
+             "Queries\\": "queries/"
+
+         }
+     }
+
+}
